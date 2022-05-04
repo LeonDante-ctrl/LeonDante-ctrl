@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/ivymmurithi/github-readme-stats"><img alt="Leon Dante's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Leon Dante's&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/leondante-ctrl/github-readme-stats"><img alt="Leon Dante's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Leon Dante's&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/leondante-ctrl/github-readme-stats"><img alt="Leon Dante's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leondante-ctrl&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
