@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/LeonDante-ctrl)**
 
-- 📫 How to reach me **maxgamerdu@gmail.com@gmail.com**
+- 📫 How to reach me **maxgamerdu@gmail.com**
 
 - ⚡ Fun fact **I'm a CTF champ**
 
